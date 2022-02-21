@@ -1,0 +1,2 @@
+type: query
+expected: SELECT c.titulo FROM cuadros c, pintores p WHERE c.id_pintor = p.id_pintor AND p.nombre = "Antonio Berni";

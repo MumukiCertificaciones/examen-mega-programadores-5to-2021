@@ -1,0 +1,16 @@
+---
+name: Examen Mega Programadores - 5to año
+locale: es
+type: learning
+beta: false
+language: ruby
+id_format: "%05d"
+order:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+private: false

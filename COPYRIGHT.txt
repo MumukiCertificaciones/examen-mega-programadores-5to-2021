@@ -1,0 +1,5 @@
+Copyright Gustavo Trucco and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/mumukicertificaciones/examen-mega-programadores-5to-2021 and the AUTHORS.txt file.
